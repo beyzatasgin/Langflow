@@ -4,7 +4,7 @@ Langflow kullanılarak kurulmuş **Retrieval-Augmented Generation (RAG)** tabanl
 
 ---
 
-## 📋 İçindekiler
+##  İçindekiler
 
 - [Genel Bakış](#genel-bakış)
 - [Proje Yapısı (Akış Adımları)](#proje-yapısı-akış-adımları)
@@ -182,5 +182,6 @@ Akıştaki node’ların özeti:
 
 - [Langflow Docs / Install](https://docs.langflow.org/) · [Langflow GitHub](https://github.com/langflow-ai/langflow)  
 - [Astra DB](https://dtsx.io/3vZk6n2)
-#   R A G - Q A  
+
+ 
  
