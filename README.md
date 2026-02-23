@@ -1,4 +1,5 @@
 #  Langflow ile RAG Tabanlı Restoran S&S Uygulaması
+<img width="1860" height="824" alt="image" src="https://github.com/user-attachments/assets/ca2c5b39-40cf-40b4-964f-05aef63fcd0c" />
 
 Langflow kullanılarak **kod yazmadan**, görsel node'larla oluşturulmuş **Retrieval-Augmented Generation (RAG)** tabanlı restoran soru-cevap chatbot'u.
 
@@ -132,6 +133,7 @@ Langflow'da her aşağıdaki değeri ilgili node'a **Credential** veya **Variabl
 - "Tell me about the hours of the store."
 - "Can you tell me about the specials and the menu?"
 - "What payment methods do you accept?"
+<img width="924" height="367" alt="image" src="https://github.com/user-attachments/assets/d6a36ef2-a25e-4c72-ac9b-5f10851f4933" />
 
 > 💡 İlk soru bazen gecikmeli yanıt verebilir; vector store ilk kez doldurulurken bu normaldir. İkinci sorudan itibaren RAG tam olarak çalışır.
 
@@ -154,4 +156,5 @@ Langflow'da her aşağıdaki değeri ilgili node'a **Credential** veya **Variabl
 - [Langflow GitHub](https://github.com/langflow-ai/langflow)
 - [DataStax Astra DB](https://dtsx.io/3vZk6n2)
 - [OpenAI API Keys](https://platform.openai.com/api-keys)
+
 
